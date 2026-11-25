@@ -12,6 +12,7 @@ namespace Calculadora_Pasante
 {
     public partial class Calculadora_basica : Form
     {
+        // Definición de números
         double numero1 = 0;
         double numero2 = 0;
         string operacion = "";
